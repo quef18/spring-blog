@@ -1,8 +1,8 @@
 # spring-blog
 # Phân công công việc
--Trịnh Bùi Quang Huy: Hiển thị những blog và thêm sửa xóa <space><space>
--Nguyễn Công Thắng: Làm về người dùng: comment, xem blog, đăng nhập đăng xuất <space><space>
--Lê Văn Vượng: Tạo các entity <space><space>
+-Trịnh Bùi Quang Huy: Hiển thị những blog và thêm sửa xóa<space><space>
+-Nguyễn Công Thắng: Làm về người dùng: comment, xem blog, đăng nhập đăng xuất<space><space>
+-Lê Văn Vượng: Tạo các entity<space><space>
 # Mô tả hệ thống
 Hệ thống blog online
 -Khi truy cập vào hệ thống người dùng chỉ có thể xem các blog

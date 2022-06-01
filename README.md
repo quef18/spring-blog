@@ -2,10 +2,10 @@
 ## Phân công công việc
 -Trịnh Bùi Quang Huy: Hiển thị những blog và thêm sửa xóa<space><space>-Nguyễn Công Thắng: Làm về người dùng: comment, xem blog, đăng nhập đăng xuất<space><space>-Lê Văn Vượng: Tạo các entity<space><space>
 ## Mô tả hệ thống
-### Hệ thống blog online
-####Khi truy cập vào hệ thống người dùng chỉ có thể xem các blog
-####Nếu muốn thực hiện các chức năng khác thì cần phải có tài khoản
-####Bấm vào mục đăng ký để tạo 1 tài khoản
+Hệ thống blog online
+- Khi truy cập vào hệ thống người dùng chỉ có thể xem các blog
+- Nếu muốn thực hiện các chức năng khác thì cần phải có tài khoản
+- Bấm vào mục đăng ký để tạo 1 tài khoản
 •	Nếu chưa có tài khoản thì truy cập vào web bấm nút đăng ký
 •	Sau khi đăng kí và có thông báo thành công tài khoản sẽ được lưu trong cơ sở dữ liệu và người dùng quay lại đăng nhập vào trang web bằng tài khoản vừa tạo
 -Sau khi đã đăng ký và đăng nhập thành công, người dùng có thể thực hiện đầy đủ các chức năng:

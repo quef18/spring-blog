@@ -16,11 +16,7 @@
 Nếu kết quả đúng thì cho người dùng đăng nhập	
 Thông báo tài khoản hoặc mật khẩu người dùng nhập vào không hợp lệ.
 
-#### -Viết blog
-  Để tạo 1 bài viết mới người dùng bấm ” new post” và nhập nội dung muốn viết
-#### -Sửa blog
-  Khi người dùng sửa thông tin mong muốn và nhấn nút “Edit” và chỉnh sửa nội dung
-#### -Xóa blog
-  Khi người dùng cần xóa bài viết nhấn nút “Delete” thì bài viết sẽ được xóa
-#### -Bình luận
-  Nếu muốn bình luận thì bấm “comment” và nhập nội dung cần bình luận vào
+#### -Viết blog để tạo 1 bài viết mới người dùng bấm ” new post” và nhập nội dung muốn viết
+#### -Sửa blog khi người dùng sửa thông tin mong muốn và nhấn nút “Edit” và chỉnh sửa nội dung
+#### -Xóa blog khi người dùng cần xóa bài viết nhấn nút “Delete” thì bài viết sẽ được xóa
+#### -Bình luận nếu muốn bình luận thì bấm “comment” và nhập nội dung cần bình luận vào

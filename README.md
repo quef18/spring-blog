@@ -5,8 +5,8 @@
 - Lê Văn Vượng: Tạo các entity
 ## Mô tả hệ thống
 ### Hệ thống blog online
-- Khi truy cập vào hệ thống người dùng chỉ có thể xem các blog
-- Nếu muốn thực hiện các chức năng khác thì cần phải có tài khoản
+#### -Khi truy cập vào hệ thống người dùng chỉ có thể xem các blog
+#### -Nếu muốn thực hiện các chức năng khác thì cần phải có tài khoản
 - Bấm vào mục đăng ký để tạo 1 tài khoản
 *	Nếu chưa có tài khoản thì truy cập vào web bấm nút đăng ký
 *	Sau khi đăng kí và có thông báo thành công tài khoản sẽ được lưu trong cơ sở dữ liệu và người dùng quay lại đăng nhập vào trang web bằng tài khoản vừa tạo

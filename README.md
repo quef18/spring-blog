@@ -4,7 +4,7 @@
 - Nguyễn Công Thắng: Làm về người dùng: comment, xem blog, đăng nhập đăng xuất 
 - Lê Văn Vượng: Tạo các entity
 ## Mô tả hệ thống
-Hệ thống blog online
+###Hệ thống blog online
 - Khi truy cập vào hệ thống người dùng chỉ có thể xem các blog
 - Nếu muốn thực hiện các chức năng khác thì cần phải có tài khoản
 - Bấm vào mục đăng ký để tạo 1 tài khoản
@@ -22,5 +22,5 @@ Thông báo tài khoản hoặc mật khẩu người dùng nhập vào không h
   Khi người dùng sửa thông tin mong muốn và nhấn nút “Edit” và chỉnh sửa nội dung
 - Xóa blog
   Khi người dùng cần xóa bài viết nhấn nút “Delete” thì bài viết sẽ được xóa
--Bình luận
+- Bình luận
   Nếu muốn bình luận thì bấm “comment” và nhập nội dung cần bình luận vào

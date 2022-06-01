@@ -1,6 +1,8 @@
 # spring-blog
 ## Phân công công việc
--Trịnh Bùi Quang Huy: Hiển thị những blog và thêm sửa xóa<space><space>.Nguyễn Công Thắng: Làm về người dùng: comment, xem blog, đăng nhập đăng xuất<space><space>-Lê Văn Vượng: Tạo các entity<space><space>
+- Trịnh Bùi Quang Huy: Hiển thị những blog và thêm sửa xóa
+- Nguyễn Công Thắng: Làm về người dùng: comment, xem blog, đăng nhập đăng xuất 
+- Lê Văn Vượng: Tạo các entity
 ## Mô tả hệ thống
 Hệ thống blog online
 - Khi truy cập vào hệ thống người dùng chỉ có thể xem các blog
@@ -14,11 +16,11 @@ Hệ thống blog online
 Nếu kết quả đúng thì cho người dùng đăng nhập	
 Thông báo tài khoản hoặc mật khẩu người dùng nhập vào không hợp lệ.
 
--Viết blog
-Để tạo 1 bài viết mới người dùng bấm ” new post” và nhập nội dung muốn viết
--Sửa blog
-Khi người dùng sửa thông tin mong muốn và nhấn nút “Edit” và chỉnh sửa nội dung
--Xóa blog
-Khi người dùng cần xóa bài viết nhấn nút “Delete” thì bài viết sẽ được xóa
+- Viết blog
+* Để tạo 1 bài viết mới người dùng bấm ” new post” và nhập nội dung muốn viết
+- Sửa blog
+* Khi người dùng sửa thông tin mong muốn và nhấn nút “Edit” và chỉnh sửa nội dung
+- Xóa blog
+* Khi người dùng cần xóa bài viết nhấn nút “Delete” thì bài viết sẽ được xóa
 -Bình luận
-Nếu muốn bình luận thì bấm “comment” và nhập nội dung cần bình luận vào
+* Nếu muốn bình luận thì bấm “comment” và nhập nội dung cần bình luận vào

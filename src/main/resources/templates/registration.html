@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <!--<title>Spring Boot Thymeleaf + Spring Security</title>-->
+
+    <div th:replace="/fragments/header :: header-css"/>
+
+</head>
+<body>
+
+<div th:replace="/fragments/header :: header"/>
+
+<div class="container">
+
+    <div class="register-form">
+        <form th:action="@{/register}" th:object="${userDto}" method="post">
+            <label>Email</label><br>
+            <input type="text" name="email"><br>
+
+            <label>Tên đăng nhập</label><br>
+            <input type="text" name="username"><br>
+
+            <label>Mật khẩu</label><br>
+            <input type="password" name="password"><br>
+
+            <button type="submit">ĐĂNG KÝ</button>
+        </form>
+    </div>
+
+</div>
+<!-- /.container -->
+
+<div th:replace="/fragments/footer :: footer"/>
+
+</body>
+</html>

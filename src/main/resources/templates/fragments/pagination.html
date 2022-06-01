@@ -1,0 +1,20 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+</head>
+<body>
+<div th:fragment="pagination">
+
+    <div class="button_page" th:if="${posts.totalPages > 1}">
+        <button>
+            <a th:if="${posts.number == 0}">&#8592;</a>
+            <a th:if="${posts.number - 1 >= 0}" th:href="@{'?page=' + ${posts.number - 1}}">&#8592;</a>
+        </button>
+        <button>
+            <a th:if="${posts.number == posts.totalPages}">&#8594;</a>
+            <a th:if="${posts.number <= posts.totalPages}" th:href="@{'?page=' + ${posts.number + 1}}">&#8594;</a>
+        </button>
+    </div>
+
+</div>
+</body>
+</html>

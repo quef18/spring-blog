@@ -1,1 +1,1 @@
-# spring-blog-nhom20
+# spring-blog

@@ -1,7 +1,7 @@
 # spring-blog nhóm 20 tổ 5
 ## Phân công công việc
 - Trịnh Bùi Quang Huy: Hiển thị những blog và thêm sửa xóa
-- Nguyễn Công Thắng: Làm về người dùng: comment, xem blog, đăng nhập đăng xuất 
+- Nguyễn Công Thắng: Làm về người dùng: comment, đăng nhập, đăng xuất, đăng ký 
 - Lê Văn Vượng: Tạo các entity
 ## Mô tả hệ thống
 ### Hệ thống blog online
